@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/lintglob",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lint URLs and glob query parts with stable normalization.",
+  "bin": {
+    "lintglob": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/lintglob.git"
+  },
+  "homepage": "https://theworker02.github.io/lintglob/",
+  "keywords": [
+    "lint",
+    "glob",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
